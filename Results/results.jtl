@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791200326823,1556,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,3293,819,4,4,null,0,2255,766
+1791200326961,956,Check Room Availability,200,OK,Thread Group 1-1,text,true,,1166,210,2,2,https://automationintesting.online/api/room?checkin=2027-09-01&checkout=2027-09-02,955,0,766
+1791200330029,390,View Selected Room,200,OK,Thread Group 1-1,text,true,,1091,173,4,4,https://automationintesting.online/api/room/3,389,0,0
+1791200330421,210,Create Booking,201,Created,Thread Group 1-1,text,true,,1036,436,4,4,https://automationintesting.online/api/booking,210,0,0
+1791200327787,841,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,3288,816,4,4,null,0,2011,328
+1791200327788,479,Check Room Availability,200,OK,Thread Group 1-2,text,true,,1171,210,2,2,https://automationintesting.online/api/room?checkin=2027-09-04&checkout=2027-09-05,479,0,328
+1791200330274,258,View Selected Room,200,OK,Thread Group 1-2,text,true,,1091,173,4,4,https://automationintesting.online/api/room/3,256,0,0
+1791200330533,104,Create Booking,201,Created,Thread Group 1-2,text,true,,1026,433,4,4,https://automationintesting.online/api/booking,104,0,0
+1791200328790,1057,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,3286,821,4,4,null,0,2006,405
+1791200328792,593,Check Room Availability,200,OK,Thread Group 1-3,text,true,,1169,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-07&checkout=2027-09-08,593,0,405
+1791200331387,259,View Selected Room,200,OK,Thread Group 1-3,text,true,,1089,173,3,3,https://automationintesting.online/api/room/3,259,0,0
+1791200331647,205,Create Booking,201,Created,Thread Group 1-3,text,true,,1028,438,4,4,https://automationintesting.online/api/booking,204,0,0
+1791200329784,1085,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,3293,819,4,4,null,0,2008,433
+1791200329785,636,Check Room Availability,200,OK,Thread Group 1-4,text,true,,1167,210,4,4,https://automationintesting.online/api/room?checkin=2027-09-10&checkout=2027-09-11,636,0,433
+1791200332425,246,View Selected Room,200,OK,Thread Group 1-4,text,true,,1091,173,3,3,https://automationintesting.online/api/room/3,246,0,0
+1791200332673,203,Create Booking,201,Created,Thread Group 1-4,text,true,,1035,436,4,4,https://automationintesting.online/api/booking,202,0,0
+1791200330783,1111,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,3292,818,4,4,null,0,2007,469
+1791200330785,590,Check Room Availability,200,OK,Thread Group 1-5,text,true,,1167,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-13&checkout=2027-09-14,589,0,469
+1791200333378,321,View Selected Room,200,OK,Thread Group 1-5,text,true,,1093,173,3,3,https://automationintesting.online/api/room/3,321,0,0
+1791200333700,200,Create Booking,201,Created,Thread Group 1-5,text,true,,1032,435,4,4,https://automationintesting.online/api/booking,200,0,0
+1791200331781,947,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,3292,820,3,3,null,0,2008,491
+1791200331783,684,Check Room Availability,200,OK,Thread Group 1-6,text,true,,1163,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-16&checkout=2027-09-17,684,0,491
+1791200334469,157,View Selected Room,200,OK,Thread Group 1-6,text,true,,1101,173,3,3,https://automationintesting.online/api/room/3,157,0,0
+1791200334628,106,Create Booking,201,Created,Thread Group 1-6,text,true,,1028,437,3,3,https://automationintesting.online/api/booking,106,0,0
+1791200332780,1033,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,3278,818,4,4,null,0,2005,517
+1791200332781,713,Check Room Availability,200,OK,Thread Group 1-7,text,true,,1163,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-19&checkout=2027-09-20,713,0,517
+1791200335496,181,View Selected Room,200,OK,Thread Group 1-7,text,true,,1089,173,3,3,https://automationintesting.online/api/room/3,181,0,0
+1791200335678,139,Create Booking,201,Created,Thread Group 1-7,text,true,,1026,435,4,4,https://automationintesting.online/api/booking,138,0,0
+1791200333777,746,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,3286,821,3,3,null,0,2006,287
+1791200333778,437,Check Room Availability,200,OK,Thread Group 1-8,text,true,,1164,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-22&checkout=2027-09-23,437,0,287
+1791200336218,147,View Selected Room,200,OK,Thread Group 1-8,text,true,,1089,173,3,3,https://automationintesting.online/api/room/3,147,0,0
+1791200336366,162,Create Booking,201,Created,Thread Group 1-8,text,true,,1033,438,3,3,https://automationintesting.online/api/booking,162,0,0
+1791200334777,597,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,3292,822,2,2,null,0,2007,167
+1791200334779,283,Check Room Availability,200,OK,Thread Group 1-9,text,true,,1174,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-25&checkout=2027-09-26,283,0,167
+1791200337065,177,View Selected Room,200,OK,Thread Group 1-9,text,true,,1089,173,2,2,https://automationintesting.online/api/room/3,176,0,0
+1791200337243,137,Create Booking,201,Created,Thread Group 1-9,text,true,,1029,439,2,2,https://automationintesting.online/api/booking,137,0,0
+1791200335777,757,Book Room Transaction,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,3291,819,1,1,null,0,2010,250
+1791200335778,374,Check Room Availability,200,OK,Thread Group 1-10,text,true,,1170,210,3,3,https://automationintesting.online/api/room?checkin=2027-09-28&checkout=2027-09-29,374,0,250
+1791200338160,151,View Selected Room,200,OK,Thread Group 1-10,text,true,,1089,173,1,1,https://automationintesting.online/api/room/3,151,0,0
+1791200338312,232,Create Booking,201,Created,Thread Group 1-10,text,true,,1032,436,1,1,https://automationintesting.online/api/booking,232,0,0
